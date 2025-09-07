@@ -1,0 +1,5 @@
+/* Tailwind v4: just import the framework */
+@import "tailwindcss";
+
+/* Optional: a tiny base tweak so text looks nice */
+html, body, #root { height: 100%; }
